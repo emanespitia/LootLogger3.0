@@ -1,9 +1,4 @@
-//
-//  LootLoggerRBUITests.swift
-//  LootLoggerRBUITests
-//
-//  Created by P.Breaker on 10/7/25.
-//
+
 
 import XCTest
 

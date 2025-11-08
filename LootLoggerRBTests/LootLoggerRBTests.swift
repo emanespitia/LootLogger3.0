@@ -1,9 +1,3 @@
-//
-//  LootLoggerRBTests.swift
-//  LootLoggerRBTests
-//
-//  Created by P.Breaker on 10/7/25.
-//
 
 import Testing
 @testable import LootLoggerRB
